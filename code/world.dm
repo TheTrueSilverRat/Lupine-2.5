@@ -17,8 +17,8 @@
 	view = "15x15"
 	hub = "Exadv1.spacestation13"
 	hub_password = "zX1svaLpIhl70uii"
-	name = "Rivermist Hollow"
-	fps = 20
+	name = "Lupine Pass 2.5"
+	fps = 30
 	cache_lifespan = 0
 #ifdef FIND_REF_NO_CHECK_TICK
 	loop_checks = FALSE
