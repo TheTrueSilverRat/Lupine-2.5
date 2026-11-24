@@ -15,8 +15,8 @@
 	glass_name = "glass of semen"
 	glass_desc = ""
 	// As filling as milk; it costs more to make than it gives back, so nobody lives off their own.
-	nutriment_factor = 1 * REAGENTS_METABOLISM
-	hydration_factor = 2
+	nutriment_factor = 2 * REAGENTS_METABOLISM //LUPINE PASS 2.5 EDIT Changed 1 to 2
+	hydration_factor = 4 //LUPINE PASS 2.5 EDIT Changed 2 to 4
 	var/virile = TRUE
 	var/triggers_embryo_pregnancy = FALSE
 	var/vitilty_factor = 1
